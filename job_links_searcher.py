@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 
 class JobDataFinder:
     job_data = []
+    """
+    class which searches all given links and extracts job information
+    """
 
     def __init__(self, job_links: list):
         self.job_links = job_links

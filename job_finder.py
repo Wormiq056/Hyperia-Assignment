@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 
 
 class JobsFinder:
+    """
+    class that returns available job links
+    """
     job_links = []
 
     def __init__(self, url: str):

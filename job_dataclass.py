@@ -3,6 +3,9 @@ from dataclasses import dataclass
 
 @dataclass
 class JobData:
+    """
+    dataclass representing job information
+    """
     title: str
     place: str
     salary: str
