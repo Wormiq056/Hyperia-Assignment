@@ -1,7 +1,6 @@
 from dataclasses import dataclass
 
 
-# dataclass for job information
 @dataclass
 class JobData:
     title: str
