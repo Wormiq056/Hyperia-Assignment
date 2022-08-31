@@ -1,5 +1,5 @@
 # Hyperia-Assignment
-This small project is an assingment for a potential position from Hyperia. The given task was to scrape a website for information about available job positons and write them into a JSON file.
+This small project is an assingment for a potential position at Hyperia. The given task was to scrape a website for information about available job positons and write them into a JSON file.
 
 ## Usage
 In order to run this program change direction to project folder and run this command:
